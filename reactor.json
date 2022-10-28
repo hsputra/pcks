@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "hsputra",
+    "repo": "pcks",
+    "branch": "master"
+  },
+  "name": "pcks",
+  "description": "",
+  "version": "1.0.0",
+  "projectId": "8"
+}
